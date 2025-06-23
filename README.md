@@ -35,7 +35,7 @@ git clone https://github.com/AlvaroMoraa/Xadrez-console.git
        • O tabuleiro será atualizado após cada jogada.
 
 ## 📁 Estrutura do projeto
-
+```plaintext
 xadrez-console/
 ├── tabuleiro/
 │   ├── Cor.cs
@@ -54,7 +54,7 @@ xadrez-console/
 │   └── Torre.cs
 ├── Program.cs
 ├── Tela.cs
-
+```
 ## 📌 Observações
 
 • Este projeto tem fins educacionais
